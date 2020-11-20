@@ -1,4 +1,4 @@
-## NAMA BOT
+## ARASHI BOT
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -16,8 +16,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/benisadewa/reuzsc
-> cd reuzsc
+> git clone https://github.com/Ari-tech04/arashi-bot
+> cd arashi-bot
 > bash install.sh
 > node index.js
 ```
@@ -52,4 +52,4 @@ ket : ✅ : aktif
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ## DONASI
-*
+* Dana, Gopay: 088704214847, 082133788387
