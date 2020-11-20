@@ -1,5 +1,5 @@
 {
-  "name": "BetaBOT",
+  "name": "ARASHI BOT",
   "version": "1.0.0",
   "description": "bot wa simple",
   "main": "index.js",
@@ -34,7 +34,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rizky257/bot-adam"
+    "url": "git+https://github.com/Ari-tech04/arashi-bot"
   },
   "keywords": [
     "k"
@@ -42,7 +42,7 @@
   "author": "Abdul Muttaqin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Rizky257/bot-adam/issues"
+    "url": "https://github.com/Ari-tech04/arashi-bot/issues"
   },
-  "homepage": "https://github.com/Rizky257/bot-adam#readme"
+  "homepage": "https://github.com/Ari-tech04/arashi-bot#readme"
 }
